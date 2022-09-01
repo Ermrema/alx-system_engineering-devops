@@ -1,1 +1,2 @@
-su chown
+#!/bin/bash
+su betty
