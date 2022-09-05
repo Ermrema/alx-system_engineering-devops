@@ -1,4 +1,4 @@
-elect Case_Status,CASENUMBER,CUSTOMERID,acc,custno,FULLNAME,ccy,RSKEXPAMT,error,ErrorType,FriendlyError,* from Account_Opening_Case where 
-Case_Status in('UploadSignature','ModifyStdCifFail','HORecievedDocs','UploadCorporateSIgnature','ModifySTDCUSACFAIL','UploadSignatureFail') and 
-ProcessDate between '2021-06-01 00:00:00.000'
- AND '2021-06-30 00:00:00.000'
+Excellent communication skills required both verbal and written
+Must be business-minded multi-taskers who know how to organize
+Showing proficiency in Microsoft Word, Excel and PowerPoint
+Extensive sales experien'
